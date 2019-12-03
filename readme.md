@@ -3,3 +3,5 @@
 3 line
 
 -new line for next commit
+
+line 5 after checkout
